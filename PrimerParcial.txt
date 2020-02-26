@@ -2,7 +2,7 @@
 
 Se deberá elaborar un documento que describa y demuestre las siguientes actividades, tomando como base el backlog descrito.
 
-1.- Describir el proceso de SCRUM (horario de scrum daily and biweekly) y la herramienta a usar (SaaS). (10 pts)
+1.- Describir el(su) proceso de SCRUM (horario de scrum daily and biweekly) y la herramienta a usar (SaaS). (10 pts)
 2.- Organizar en sprints la lista de BackLogs mencionados (no mayores a 3 semanas, con fechas asignadas, CheckList ect.). (30 pts)
 3.- Asignar equipo y asignar responsables por tarea. (10 pts)
 4.- Describir el proceso para la creación de tickets de soporte/seguimiento y la herramienta a usar (SaaS). (20 pts)
