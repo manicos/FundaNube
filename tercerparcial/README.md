@@ -3,7 +3,7 @@ Sabemos que el software de hoy, no consiste solo en programar una secuencia de i
 
 #Entrega Final
 
-En equipos de 4 desarrollar un diagrama de arquitectura tecnológica en la nube para el startup Kitopi. 
+En equipos de 2 desarrollar un diagrama de arquitectura tecnológica en la nube para el startup Kitopi. 
 
 Tareas a realizar
 1.- Definir los servicios en la nube que se contratarán y como se comunican entre ellos. Desarrollo de un diagrama gráfico.
