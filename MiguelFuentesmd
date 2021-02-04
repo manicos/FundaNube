@@ -1,1 +1,0 @@
-Miguel Fuentes González
